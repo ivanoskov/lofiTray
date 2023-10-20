@@ -1,7 +1,7 @@
 # 🎧*LofiTray* - **любая** онлайн-трансляция теперь в Вашей панели задач **в фоновом режиме**
 ![Alt text](docs/img/LofiTray.png)
 
-![](https://badgen.net/static/downloads/2/red)
+![](https://badgen.net/static/downloads/13/red)
 ![](https://badgen.net/static/size/19.63%20Mb/orange)
 ![](https://badgen.net/static/сonfirmed/69%20antivirus/green?icon=windows)
 ![](https://img.shields.io/github/watchers/ivanoskov/lofiTray.svg)
